@@ -2,7 +2,7 @@
 
 **Turn any public OneDrive or SharePoint folder into a single, easy-to-download ZIP file.**
 
-[![Website](https://img.shields.io/badge/Website-Live-blue)](https://onedrive-dl.github.io)
+[![Website](https://img.shields.io/badge/Website-Live-blue)](https://sharepoint-dl.github.io)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 ## 🚀 What does it do?
